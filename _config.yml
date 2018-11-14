@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+deploy:
+  type: git
+  repository: git@github.com:Wellyx/github.io.git
+  branch: master
